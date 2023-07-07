@@ -1,5 +1,5 @@
 # Flatdango Movie Theater
-FlatDango is an application that helps people to be able to purchase their tickects to the movies.
+ The FlatDango is an application that helps people to be able to purchase their tickects to the movies.
 
 # SetUp
 For on to be able to set up the FlatDango application one should:

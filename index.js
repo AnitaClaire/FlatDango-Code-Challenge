@@ -48,7 +48,7 @@ function displayFilmDetails(film) {
       availableTicketsElement.innerText = `Available Tickets: ${film.capacity - film.tickets_sold}`;
 
       
-      let patchEndpoint = `${filmsEndpoint}/${film.id}`;
+      var patchEndpoint = `${filmsEndpoint}/${film.id}`;
       fetch(patchEndpoint, {
         method: 'PATCH',
         headers: {
