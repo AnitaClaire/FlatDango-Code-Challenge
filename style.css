@@ -1,0 +1,13 @@
+.movie-details{
+    float:left;
+    margin-right:20px;
+}
+.poster{
+    width: 300px;
+}
+ul{
+ list-style-type:none;
+}
+.sold-out{
+    color:darkblue;
+}
